@@ -1,0 +1,5 @@
+C:\Users\Saif Ijaz\source\repos\Billingsystem\Billingsystem\x64\Debug\Billingsystem.vcxproj.AssemblyReference.cache
+C:\Users\Saif Ijaz\source\repos\Billingsystem\Billingsystem\x64\Debug\Billingsystem.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Saif Ijaz\source\repos\Billingsystem\Billingsystem\x64\Debug\Billingsystem.mainPage.resources
+C:\Users\Saif Ijaz\source\repos\Billingsystem\Billingsystem\x64\Debug\Billingsystem.vcxproj.GenerateResource.cache
+C:\Users\Saif Ijaz\source\repos\Billingsystem\Billingsystem\x64\Debug\Billingsystem.LoginForm.resources
